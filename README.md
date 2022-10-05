@@ -9,9 +9,9 @@ I am a Front End Web Developer . I am strategic, goal-oriented and always work w
 Skills: REACT / JS / HTML / CSS/NodeJS/ExpressJS/MongoDB
 
 - 🔭 I’m currently working on Final year project 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Advance Full Stack practice and knowledages
 - 👯 I’m looking to collaborate on gitHub 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about MERN Stack Web Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NababSharif2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdnababshorif.mozumder.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/MDNababSharif/)  
