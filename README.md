@@ -4,7 +4,7 @@
 ### Hi there 👋, My name is Nabab Sharif
 #### MERN Stack Web Developer
 
-I am a Front End Web Developer . I am strategic, goal-oriented and always work with an end goal in mind. Most of time I work with MERN Stack but some technologies I enjoy working with include React Native, Redux, TypeScript as well as Python.
+I am a MERN Stack Web Developer . I am strategic, goal-oriented and always work with an end goal in mind. Most of time I work with MERN Stack but some technologies I enjoy working with include React Native, Redux, TypeScript as well as Python.
 
 Skills: REACT / JS / HTML / CSS/NodeJS/ExpressJS/MongoDB
 
